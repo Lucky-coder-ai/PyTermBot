@@ -13,7 +13,7 @@ A simple and efficient command-line chatbot powered by the Mistral model running
 - **Python 3.x**
 - **Ollama** (Local LLM hosting)
 - **Mistral** (Language model)
-- Optionally: JavaScript frontend or shell wrappers
+- Optionally: shell wrappers
 
 ## 📦 Installation
 

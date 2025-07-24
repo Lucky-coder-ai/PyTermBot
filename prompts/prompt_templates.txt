@@ -1,0 +1,93 @@
+[summarize_brief]
+Please provide a concise summary of the following text in 2-3 sentences. Focus on the main points and key information.
+
+[summarize_detailed]
+Create a comprehensive summary of the following text. Include:
+- Main themes and concepts
+- Key points and arguments
+- Important details and examples
+- Conclusions or outcomes
+
+[summarize_bullet_points]
+Summarize the following text as clear, organized bullet points. Each point should capture a main idea or important detail from the text.
+
+[summarize_key_insights]
+Extract and highlight the key insights, important takeaways, and actionable information from the following text. Focus on what's most valuable or surprising.
+
+[chat_helpful]
+You are a helpful AI assistant. Respond in a friendly, informative manner. If you don't know something, admit it honestly and offer to help in other ways.
+
+[chat_creative]
+You are a creative AI assistant. Feel free to be imaginative, think outside the box, and provide creative solutions and ideas. Use vivid language and interesting examples.
+
+[chat_analytical]
+You are an analytical AI assistant. Provide logical, well-reasoned responses. Break down complex problems step by step and support your answers with clear reasoning.
+
+[chat_expert]
+You are an expert AI assistant with deep knowledge. Provide detailed, authoritative responses with technical accuracy. Use professional language and include relevant context.
+
+[code_review]
+Please review the following code for:
+- Potential bugs or errors
+- Code quality and best practices
+- Performance improvements
+- Security considerations
+- Readability and maintainability
+
+[explain_concept]
+Explain the following concept in a clear, easy-to-understand way. Use examples and analogies where helpful. Structure your explanation from basic to more advanced concepts.
+
+[brainstorm]
+Help me brainstorm ideas for the following topic. Provide creative, diverse, and practical suggestions. Think broadly and consider different angles and approaches.
+
+[problem_solving]
+Help me solve this problem step by step:
+1. First, help me understand the problem clearly
+2. Break it down into smaller parts
+3. Suggest possible approaches
+4. Recommend the best solution with reasoning
+
+[writing_assistance]
+Help me improve this writing by:
+- Checking grammar and clarity
+- Suggesting better word choices
+- Improving flow and structure
+- Making it more engaging for the target audience
+
+[data_analysis]
+Analyze the following data or information:
+- Identify patterns and trends
+- Draw meaningful conclusions
+- Suggest actionable insights
+- Highlight any limitations or concerns
+
+[translate_and_explain]
+Translate the following text and then explain:
+- The literal translation
+- Cultural context if relevant
+- Any nuances or subtleties
+- Alternative interpretations if applicable
+
+[debug_help]
+Help me debug this issue:
+- Identify the likely cause of the problem
+- Suggest specific steps to diagnose it
+- Provide potential solutions
+- Recommend prevention strategies for the future
+
+[summarize_for_kids]
+Explain the following text in a simple, child-friendly way using everyday language. Use short sentences, clear ideas, and avoid technical terms. The explanation should feel friendly, like you're talking to a curious 10-year-old.
+
+[explain_code_simple]
+Explain the following code clearly and simply. Focus on what the code is doing at each step. Use beginner-friendly language and avoid jargon unless you explain it. Include examples or real-world analogies if helpful.
+
+[python_debug_hint]
+Help identify any issues in the following Python code. If there's an error, explain what it means, where it likely occurs, and how to fix it. Use beginner-friendly explanations and provide code corrections if necessary.
+
+[generate_react_unit_test]
+Write Jest unit tests for the following React component. 
+- Cover the key functionalities and edge cases.
+- Use `@testing-library/react` for rendering and user interaction when applicable.
+- Include assertions that verify expected output and behavior.
+- Keep the test code clean, readable, and well-organized.
+- Include any necessary imports. If the component uses props or state, write tests for those cases too.

@@ -1,5 +1,4 @@
 # PyTermBot
-Type a question → bot answers using knowledge base
 # 🧠 CLI Chatbot with Mistral via Ollama
 
 A simple and efficient command-line chatbot powered by the Mistral model running locally through [Ollama](https://ollama.com/). Type your queries right into your terminal and receive fast, intelligent responses with zero cloud latency.
